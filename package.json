@@ -2,7 +2,7 @@
 	"name": "heroku-aria2c",
 	"version": "1.0.0",
 	"main": "index.js",
-	"author": "xinxin8816 <i@qxin.uu.me>",
+	"author": "aliof2009 <aliof2009@aaa.me>",
 	"license": "MIT",
 	"dependencies": {
 		"express": "^4.17.1",
